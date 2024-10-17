@@ -1,0 +1,5 @@
+#Country	Account type (BUSINESS/PERSONAL)	Email	Password	Firstname	Lastname	PayPal Balance	Verified bank? (Y/N)	Credit card type(DISCOVER/VISA/AMEX/MASTERCARD)	Payment Card (DISCOVER/PAYPAL)
+US	BUSINESS	 bulk1-sb@business.example.com	12345678	John	Doe	1000	Y	DISCOVER	DISCOVER
+US	BUSINESS	 bulk2-sb@business.example.com	12345678	John	Doe	1000	Y	VISA	DISCOVER
+US	BUSINESS	 bulk3-sb@business.example.com	12345678	John	Doe	1000	Y	AMEX	DISCOVER
+US	BUSINESS	 bulk4-sb@business.example.com	12345678	John	Doe	1000	Y	MASTERCARD	DISCOVER

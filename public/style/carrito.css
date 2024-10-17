@@ -1,0 +1,50 @@
+.menuOrdenar {
+    color: #513946 !important;
+}
+
+.precio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.botonAgregarCarrito {
+    background-color: #513946!important;
+    color: white!important;
+}
+
+.menuCarrito {
+    height: 100px;
+    width: 80px;
+}
+
+.botonIngresar {
+    background-color: #513946!important;
+    color: white!important;
+}
+
+.btn {
+    position: relative;
+}
+
+.cantidadProductos {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+#mensajeCompra {
+    position: absolute;
+    padding: 10px;
+    color: #fff;
+    background-color: red;
+    height: 90px;
+    width: 170px;
+    z-index: 9999;
+    border-radius: 5px;
+    opacity: 0.4;
+}
+
+.mensajecarrito {
+    color: #fff;
+}
